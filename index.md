@@ -3,6 +3,6 @@
       <link rel="stylesheet" type="text/css" href="main.css">
    </head> 
   <body>
-     [Position 1](pos1.md)
+     [Position 1](pos1)
   </body>
 </html>
