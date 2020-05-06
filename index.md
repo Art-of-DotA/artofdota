@@ -7,5 +7,5 @@
      <div>This is a test dive tag.
           - this is a list
      </div>
-     <body>
-        </html>
+   </body>
+</html>
