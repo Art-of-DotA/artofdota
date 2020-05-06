@@ -3,7 +3,7 @@
       <link rel="stylesheet" type="text/css" href="main.css">
    </head> 
   <body>
-     <a href="pos1.html"># Position 1 Meta</a>
+     [Position 1](pos1.html)
      <div>This is a test dive tag.
           - this is a list
      </div>
