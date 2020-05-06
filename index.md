@@ -4,5 +4,5 @@
    </head> 
   <body>
      [Position 1](pos1.md)
-   </body>
+  </body>
 </html>
