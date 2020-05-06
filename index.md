@@ -1,2 +1,14 @@
-This is the begining of Art of DotA
-Please Check out our Custom Meta for respectable positional draft to the current meta.
+<html>
+   <head>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head> 
+  <body>
+    <a href="pos1.html>Position 1 Meta</a>
+             <div>
+             This is a test dive tag.
+             <ul>
+             <li> this is a list</li>
+             </ul>
+             </div>
+    <body>
+  </html>
