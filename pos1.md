@@ -9,4 +9,4 @@
 6. Clinkz
 7. Ember
 8. Lycan
-10. Riki
+9. Riki
